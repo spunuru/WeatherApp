@@ -36,9 +36,10 @@ It is already built and included in Java project (in weatherapp folder).
 
 Running WeatherApp
 --------------------
-cd weatherapp
 
-java -jar target/weatherapp-0.1.0.jar
+1.cd weatherapp
+2.java -jar target/weatherapp-0.1.0.jar
+
 
 Open URL http://localhost:8080 in Browser
 
@@ -47,3 +48,10 @@ Select a city to check the weather forecast
 Checking logs
 --------------
 Check weatherapp.log in the current folder where java -jar command is run.
+
+To Do
+------
+1. Input validation
+2. Exception handling
+3. Unit test cases
+
