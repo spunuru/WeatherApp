@@ -12,6 +12,7 @@ What is in it?
 -----------------
 
 WeatherApp contains following two folders -
+
 1. weatherapp folder - contains maven based Java project.
 2. weatherapp_js folder - contains ExtJS project.
 
